@@ -1,0 +1,1 @@
+scoreboard objectives add golden_carrot_count dummy
