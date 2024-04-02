@@ -1,5 +1,4 @@
 {
-    "replace": false,
     "values": [
         "cmd_single_commands:load"
     ]
